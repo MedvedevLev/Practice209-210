@@ -1,0 +1,16 @@
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\RedisLab.exe.config
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\RedisLab.exe
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\RedisLab.pdb
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.Common.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.Interfaces.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.OrmLite.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.Redis.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\RedisLab\RedisLab\RedisLab\bin\Debug\ServiceStack.Text.dll
+C:\RedisLab\RedisLab\RedisLab\obj\Debug\RedisLab.csprojAssemblyReference.cache
+C:\RedisLab\RedisLab\RedisLab\obj\Debug\RedisLab.csproj.CoreCompileInputs.cache
+C:\RedisLab\RedisLab\RedisLab\obj\Debug\RedisLab.csproj.CopyComplete
+C:\RedisLab\RedisLab\RedisLab\obj\Debug\RedisLab.exe
+C:\RedisLab\RedisLab\RedisLab\obj\Debug\RedisLab.pdb
